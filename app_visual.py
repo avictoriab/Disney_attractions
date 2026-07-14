@@ -36,10 +36,10 @@ with placeholder.container():
 
 # Reemplazar el contenedor de carga con la tabla final
 with placeholder.container():
+    # Mostrar la tabla
     st.table(df)
 
-# Mostrar la tabla
-st.table(df)
+
 
 # Filtrar la tabla
 
