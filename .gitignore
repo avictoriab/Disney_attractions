@@ -1,0 +1,22 @@
+# Archivos de configuración del entorno (Secretos)
+.env
+.env.local
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas ocultas del editor de código (VS Code o PyCharm)
+.vscode/
+.idea/
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
