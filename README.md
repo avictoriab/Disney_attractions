@@ -19,7 +19,7 @@ Esta es una aplicación interactiva desarrollada con Streamlit que permite visua
 
    ```bash
    git clone [https://github.com/avictoriab/Disney_attractions.git](https://github.com/avictoriab/Disney_attractions.git)
-   cd NOMBRE_DEL_REPOSITORIO
+   cd Disney_attractions
 
    ```
 
