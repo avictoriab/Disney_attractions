@@ -18,12 +18,12 @@ Esta es una aplicación interactiva desarrollada con Streamlit que permite visua
 1. **Clona el repositorio:**
 
    ```bash
-   git clone [https://github.com/avictoriab/Disney_attractions.git](https://github.com/avictoriab/Disney_attractions.git)
+   git clone https://github.com/avictoriab/Disney_attractions.git
    cd Disney_attractions
 
    ```
 
-2. Crea y activa un entorno virtual:
+2. **Crea y activa un entorno virtual:**
 
 Bash
 
@@ -37,12 +37,12 @@ venv\Scripts\activate
 python -m venv venv
 source venv/bin/activate
 
-3. Instala las dependencias:
+3. **Instala las dependencias:**
 
 Bash
 pip install -r requirements.txt
 
-4. Ejecuta la aplicación:
+4. **Ejecuta la aplicación:**
 
 Bash
 streamlit run app_visual.py
